@@ -86,17 +86,23 @@ pip install -r requirements.txt
 * [Streamlit](https://streamlit.io/) - Librería de Aplicaciones y dashboards
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iafp613&theme=blue-green)
-
-
 ## Contribuyendo 🖇️
 
 *Por favor, déjame una estrella en mi perfil y/o hazme un follow, ayudas a seguir subiendo más contenido.* 😊
+
+- [My Instagram](https://instagram.com/nachofp613)
+- [My Twitter](https://twitter.com/nachofp613)
 
 ![GitHub followers](https://img.shields.io/github/followers/iafp613?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/iafp613?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/iafp613/gestion_cines?style=social)
 
+
+## Más recursos 📌
+
+[Mi portfolio profesional](https://iafp613.github.io) - ¡Visítame!
+
+[Mi portfolio personal](https://nachofp613.notion.site/Nacho-s-Personal-Portfolio-421a07c6bcfd4e4a8b310a3d3e5e1b14) - Tutoriales y noticias interesantes.
 
 
 ## Autor ✒️
@@ -106,7 +112,7 @@ pip install -r requirements.txt
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT (mira el archivo [LICENSE.md](LICENSE.md) para detalles).
+Este proyecto está bajo la Licencia MIT (mira el archivo [LICENSE.md](https://github.com/iafp613/gestion_cines/blob/main/LICENSE) para detalles).
 
 
 ## Expresiones de Gratitud 🎁
@@ -114,4 +120,5 @@ Este proyecto está bajo la Licencia MIT (mira el archivo [LICENSE.md](LICENSE.m
 Muchísimas gracias a YouTube, por ser una fuente inagotable de conocimientos.
 
 Y muchísimas gracias a Streamlit, por ser de código abierto, tener una documentación tan sencilla y poder hacer estas maravillas. 😊
+
 ---
