@@ -1,0 +1,326 @@
+{
+    "Clientes": [
+        {
+            "Usuario": "admin613",
+            "Nombre": "Nacho",
+            "Apellidos": "Fontal Patac",
+            "Edad": 35,
+            "DNI": "69126664V",
+            "Password": "Ciberseguridad"
+        },
+        {
+            "Usuario": "anita21",
+            "Nombre": "Ana",
+            "Apellidos": "Zurita Garcia",
+            "Edad": 21,
+            "DNI": "54796321H",
+            "Password": "Anita"
+        },
+        {
+            "Usuario": "Tito",
+            "Nombre": "Alberto",
+            "Apellidos": "Cano Peiro",
+            "Edad": 33,
+            "DNI": "25471265H",
+            "Password": "011188"
+        },
+        {
+            "Usuario": "Fer22",
+            "Nombre": "Fernando",
+            "Apellidos": "Zurita Perez",
+            "Edad": 22,
+            "DNI": "32479852T",
+            "Password": "FerZu22"
+        },
+        {
+            "Usuario": "Presidente_SPN",
+            "Nombre": "Pedro",
+            "Apellidos": "Sanchez Perez Castejon",
+            "Edad": 49,
+            "DNI": "87412563U",
+            "Password": "EnFalconAlCine"
+        },
+        {
+            "Usuario": "PabloCasBla",
+            "Nombre": "Pablo",
+            "Apellidos": "Casado Blanco",
+            "Edad": 41,
+            "DNI": "87425136Y",
+            "Password": "Odio_a_Ayuso"
+        },
+        {
+            "Usuario": "IonBe",
+            "Nombre": "Ione",
+            "Apellidos": "Belarra Urteaga",
+            "Edad": 34,
+            "DNI": "87412369H",
+            "Password": "JuntasPodemos22"
+        },
+        {
+            "Usuario": "espanol45",
+            "Nombre": "Santiago",
+            "Apellidos": "Abascal Conde",
+            "Edad": 45,
+            "DNI": "00000001A",
+            "Password": "ArribaEspana"
+        },
+        {
+            "Usuario": "Naranjita",
+            "Nombre": "Ines",
+            "Apellidos": "Arrimadas Garcia",
+            "Edad": 40,
+            "DNI": "54963214L",
+            "Password": "Resistire14"
+        },
+        {
+            "Usuario": "Consumo_esp",
+            "Nombre": "Alberto Carlos",
+            "Apellidos": "Garzon Espinosa",
+            "Edad": 36,
+            "DNI": "45218963Y",
+            "Password": "macrogranjasOut"
+        },
+        {
+            "Usuario": "ShU_JoSeMa",
+            "Nombre": "Jose Maria",
+            "Apellidos": "Aznar Lopez",
+            "Edad": 68,
+            "DNI": "00000002A",
+            "Password": "DiosSoyYoBigotito"
+        },
+        {
+            "Usuario": "ZapPsoe",
+            "Nombre": "Jose Luis",
+            "Apellidos": "Rodriguez Zapatero",
+            "Edad": 61,
+            "DNI": "98123004P",
+            "Password": "ZapateroASusZapatos"
+        },
+        {
+            "Usuario": "FrancisFra",
+            "Nombre": "Francisco",
+            "Apellidos": "Franco Bahamonde",
+            "Edad": 129,
+            "DNI": "00000000A",
+            "Password": "SiYoLevantaraLaCabeza"
+        },
+        {
+            "Usuario": "RosasRojas",
+            "Nombre": "Felipe",
+            "Apellidos": "Gonzalez Marquez",
+            "Edad": 79,
+            "DNI": "16457932Z",
+            "Password": "AManosAbiertas"
+        },
+        {
+            "Usuario": "LoshChuchesh",
+            "Nombre": "Mariano",
+            "Apellidos": "Rajoy Brey",
+            "Edad": 66,
+            "DNI": "13136669J",
+            "Password": "EshMiAlcalde69"
+        },
+        {
+            "Usuario": "Sobrecitos56",
+            "Nombre": "Luis Francisco",
+            "Apellidos": "Barcenas Gutierrez",
+            "Edad": 65,
+            "DNI": "21463287G",
+            "Password": "SobreAquiYAlla"
+        },
+        {
+            "Usuario": "NoLoSe",
+            "Nombre": "Elena",
+            "Apellidos": "de Borbon y Grecia",
+            "Edad": 58,
+            "DNI": "41632598A",
+            "Password": "NoMeAcuerdo"
+        },
+        {
+            "Usuario": "Ayusista01",
+            "Nombre": "Isabel",
+            "Apellidos": "Diaz Ayuso",
+            "Edad": 43,
+            "DNI": "03657984B",
+            "Password": "OdioACasado"
+        },
+        {
+            "Usuario": "La_Bayonce",
+            "Nombre": "Beyonce Giselle",
+            "Apellidos": "Knowles Carter",
+            "Edad": 40,
+            "DNI": "X54126987",
+            "Password": "PacoPacoPaco"
+        },
+        {
+            "Usuario": "Leti72",
+            "Nombre": "Letizia",
+            "Apellidos": "Ortiz Rocasolano",
+            "Edad": 49,
+            "DNI": "52147963D",
+            "Password": "DePeriodistaAReina"
+        },
+        {
+            "Usuario": "Elefantes38",
+            "Nombre": "Juan Carlos Alfonso Victor Maria",
+            "Apellidos": "de Borbon y Borbon Dos Sicilias",
+            "Edad": 84,
+            "DNI": "02365478I",
+            "Password": "Porquenotecallas"
+        },
+        {
+            "Usuario": "OjazosReales",
+            "Nombre": "Felipe Juan Pablo Alfonso",
+            "Apellidos": "de Todos los Santos de Borbon y Grecia",
+            "Edad": 54,
+            "DNI": "32064125L",
+            "Password": "PapaNoRobes"
+        },
+        {
+            "Usuario": "Sonrisitas",
+            "Nombre": "Jose Luis",
+            "Apellidos": "Martinez Almeida Navasques",
+            "Edad": 46,
+            "DNI": "11112234G",
+            "Password": "NoSoyBajito"
+        },
+        {
+            "Usuario": "XuntaPP",
+            "Nombre": "Alberto",
+            "Apellidos": "Nunez Feijoo",
+            "Edad": 60,
+            "DNI": "84521796S",
+            "Password": "elPPesMIO"
+        },
+        {
+            "Usuario": "pepito11",
+            "Nombre": "Jose Maria",
+            "Apellidos": "Navarro Gomez",
+            "Edad": 31,
+            "DNI": "14526398H",
+            "Password": "pepito11"
+        },
+        {
+            "Usuario": "JFK",
+            "Nombre": "Josue",
+            "Apellidos": "Garcia Gonzalez",
+            "Edad": 29,
+            "DNI": "25874136G",
+            "Password": "JFK"
+        }
+    ],
+    "Salas": [
+        {
+            "Numero Sala": "Sala 1",
+            "Aforo total": 200,
+            "Aforo actual": 187,
+            "Pelicula": "Uncharted",
+            "Trailer": "https://www.youtube.com/watch?v=v6uwWIK3p4g"
+        },
+        {
+            "Numero Sala": "Sala 2",
+            "Aforo total": 150,
+            "Aforo actual": 144,
+            "Pelicula": "Muerte en el Nilo",
+            "Trailer": "https://www.youtube.com/watch?v=2HQPNRtMbJ0"
+        },
+        {
+            "Numero Sala": "Sala 3",
+            "Aforo total": 130,
+            "Aforo actual": 123,
+            "Pelicula": "Moonfall",
+            "Trailer": "https://www.youtube.com/watch?v=5ZvH_pIq1Oc"
+        },
+        {
+            "Numero Sala": "Sala 4",
+            "Aforo total": 120,
+            "Aforo actual": 109,
+            "Pelicula": "Spider-Man: No Way Home",
+            "Trailer": "https://www.youtube.com/watch?v=ldMn-1iQzKE"
+        },
+        {
+            "Numero Sala": "Sala 5",
+            "Aforo total": 100,
+            "Aforo actual": 93,
+            "Pelicula": "La Abuela",
+            "Trailer": "https://www.youtube.com/watch?v=JhCWvpZbw9k"
+        }
+    ],
+    "Espectadores": [
+        {
+            "Numero Sala": "Sala 1",
+            "Espectadores": [
+                "Fernando Zurita Perez",
+                "Cristina Garcia Jumilla",
+                "Nacho Fontal Patac",
+                "Alberto Cano Peiro",
+                "Carlota Romero Lotera",
+                "Pedro Sanchez Perez Castejon",
+                "Pablo Casado Blanco",
+                "Ione Belarra Urteaga",
+                "Ines Arrimadas Garcia",
+                "Alberto Carlos Garzon Espinosa",
+                "Mariano Rajoy Brey",
+                "Luis Francisco Barcenas Gutierrez",
+                "JFK Garcia Gonzalez"
+            ]
+        },
+        {
+            "Numero Sala": "Sala 2",
+            "Espectadores": [
+                "Nacho Fontal Patac",
+                "Ana Zurita Garcia",
+                "Alberto Cano Peiro",
+                "Pedro Sanchez Perez Castejon",
+                "Pablo Casado Blanco",
+                "Ines Arrimadas Garcia"
+            ]
+        },
+        {
+            "Numero Sala": "Sala 3",
+            "Espectadores": [
+                "Ana Zurita Garcia",
+                "Alberto Cano Peiro",
+                "Pedro Sanchez Perez Castejon",
+                "Pablo Casado Blanco",
+                "Santiago Abascal Conde",
+                "Ione Belarra Urteaga",
+                "Ines Arrimadas Garcia"
+            ]
+        },
+        {
+            "Numero Sala": "Sala 4",
+            "Espectadores": [
+                "Ana Zurita Garcia",
+                "Anuska Garcia Jumilla",
+                "Maria Garcia Jumilla",
+                "Alberto Cano Peiro",
+                "Pablo Casado Blanco",
+                "Santiago Abascal Conde",
+                "Ines Arrimadas Garcia",
+                "Felipe Gonzalez Marquez",
+                "Jose Maria Aznar Lopez",
+                "Luisa Gonzalez Heredia",
+                "Melinda Gonzalez Garcia"
+            ]
+        },
+        {
+            "Numero Sala": "Sala 5",
+            "Espectadores": [
+                "Ana Zurita Garcia",
+                "Alberto Cano Peiro",
+                "Carlota Romero Lotera",
+                "Fernando Zurita Perez",
+                "Pablo Casado Blanco",
+                "Santiago Abascal Conde",
+                "Ione Belarra Urteaga"
+            ]
+        },
+        {
+            "Numero Sala": "Sala 6",
+            "Espectadores": [
+                "Alberto Nunez Feijoo"
+            ]
+        }
+    ]
+}

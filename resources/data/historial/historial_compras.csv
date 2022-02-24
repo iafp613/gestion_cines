@@ -1,0 +1,47 @@
+User,Nombre,Apellidos,Edad,Sala,Pelicula,Fecha,Hora
+admin613,Nacho,Fontal Patac,35,Sala 1,Uncharted,2022-02-17,16:30:00
+Fer22,Fernando,Zurita Perez,22,Sala 1,Uncharted,2022-02-17,22:30:00
+Fer22,Cristina,Garcia Jumilla,22,Sala 1,Uncharted,2022-02-17,22:30:00
+admin613,Nacho,Fontal Patac,35,Sala 1,Uncharted,2022-02-17,22:30:00
+admin613,Nacho,Fontal Patac,35,Sala 2,Muerte en el Nilo,2022-02-18,21:00:00
+anita21,Ana,Zurita Garcia,21,Sala 5,La Abuela,2022-02-15,17:45:00
+anita21,Ana,Zurita Garcia,21,Sala 4,Spider-Man: No Way Home,2022-02-10,16:00:00
+anita21,Anuska,Garcia Jumilla,21,Sala 4,Spider-Man: No Way Home,2022-02-10,16:00:00
+anita21,Maria,Garcia Jumilla,23,Sala 4,Spider-Man: No Way Home,2022-02-10,16:00:00
+anita21,Ana,Zurita Garcia,21,Sala 3,Moonfall,2022-02-12,17:15:00
+anita21,Ana,Zurita Garcia,21,Sala 2,Muerte en el Nilo,2022-02-23,22:00:00
+Tito,Alberto,Cano Peiro,33,Sala 1,Uncharted,2022-02-17,22:30:00
+Tito,Alberto,Cano Peiro,33,Sala 2,Muerte en el Nilo,2022-02-17,16:00:00
+Tito,Alberto,Cano Peiro,33,Sala 3,Moonfall,2022-02-10,19:30:00
+Tito,Alberto,Cano Peiro,33,Sala 4,Spider-Man: No Way Home,2022-02-22,18:00:00
+Tito,Alberto,Cano Peiro,33,Sala 5,La Abuela,2022-02-21,16:30:00
+Tito,Carlota,Romero Lotera,26,Sala 5,La Abuela,2022-02-21,16:30:00
+Tito,Carlota,Romero Lotera,26,Sala 1,Uncharted,2022-02-21,22:30:00
+Fer22,Fernando,Zurita Perez,22,Sala 5,La Abuela,2022-02-22,18:00:00
+Presidente_SPN,Pedro,Sanchez Perez Castejon,49,Sala 1,Uncharted,2022-02-22,22:30:00
+Presidente_SPN,Pedro,Sanchez Perez Castejon,49,Sala 2,Muerte en el Nilo,2022-02-21,22:30:00
+Presidente_SPN,Pedro,Sanchez Perez Castejon,49,Sala 3,Moonfall,2022-02-20,22:30:00
+Presidente_SPN,Pablo,Casado Blanco,41,Sala 3,Moonfall,2022-02-20,22:30:00
+Presidente_SPN,Pablo,Casado Blanco,41,Sala 2,Muerte en el Nilo,2022-02-21,22:30:00
+Presidente_SPN,Pablo,Casado Blanco,41,Sala 1,Uncharted,2022-02-22,22:30:00
+PabloCasBla,Pablo,Casado Blanco,41,Sala 4,Spider-Man: No Way Home,2022-02-24,21:00:00
+PabloCasBla,Pablo,Casado Blanco,41,Sala 5,La Abuela,2022-02-25,21:00:00
+PabloCasBla,Santiago,Abascal Conde,45,Sala 5,La Abuela,2022-02-25,21:00:00
+PabloCasBla,Santiago,Abascal Conde,45,Sala 4,Spider-Man: No Way Home,2022-02-24,21:00:00
+PabloCasBla,Santiago,Abascal Conde,45,Sala 3,Moonfall,2022-02-23,21:00:00
+IonBe,Ione,Belarra Urteaga,34,Sala 1,Uncharted,2022-02-17,22:30:00
+IonBe,Ione,Belarra Urteaga,34,Sala 5,La Abuela,2022-02-18,22:30:00
+IonBe,Ione,Belarra Urteaga,34,Sala 3,Moonfall,2022-02-19,22:30:00
+Naranjita,Ines,Arrimadas Garcia,40,Sala 1,Uncharted,2022-02-17,22:30:00
+Naranjita,Ines,Arrimadas Garcia,40,Sala 2,Muerte en el Nilo,2022-02-22,22:30:00
+Naranjita,Ines,Arrimadas Garcia,40,Sala 3,Moonfall,2022-02-19,22:30:00
+Naranjita,Ines,Arrimadas Garcia,40,Sala 4,Spider-Man: No Way Home,2022-02-21,16:00:00
+Consumo_esp,Alberto Carlos,Garzon Espinosa,36,Sala 1,Uncharted,2022-02-17,22:30:00
+ZapPsoe,Felipe,Gonzalez Marquez,79,Sala 4,Spider-Man: No Way Home,2022-02-22,16:30:00
+LoshChuchesh,Mariano,Rajoy Brey,66,Sala 1,Uncharted,2022-02-17,22:30:00
+LoshChuchesh,Luis Francisco,Barcenas Gutierrez,65,Sala 1,Uncharted,2022-02-17,22:30:00
+ShU_JoSeMa,Jose Maria,Aznar Lopez,68,Sala 4,Spider-Man: No Way Home,2022-02-22,22:30:00
+XuntaPP,Alberto,Nunez Feijoo,60,Sala 6,Unknown,2022-02-17,22:30:00
+pepito11,Luisa,Gonzalez Heredia,36,Sala 4,Spider-Man: No Way Home,2022-02-23,21:00:00
+JFK,JFK,Garcia Gonzalez,29,Sala 1,Uncharted,2022-02-24,20:30:00
+JFK,Melinda,Gonzalez Garcia,42,Sala 4,Spider-Man: No Way Home,2022-02-25,22:30:00
